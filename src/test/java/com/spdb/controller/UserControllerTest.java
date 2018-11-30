@@ -13,6 +13,7 @@ public class UserControllerTest {
 
     @Test
     public void addUser() {
+        System.out.println("学习idea和git");
     }
 
     @Test
